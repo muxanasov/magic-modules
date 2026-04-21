@@ -1412,7 +1412,6 @@ properties:
       Connection Tracking configuration for this BackendService.
       This is available only for Layer 4 Internal Load Balancing and
       Network Load Balancing.
-    min_version: 'beta'
     properties:
       - name: 'idleTimeoutSec'
         type: Integer
